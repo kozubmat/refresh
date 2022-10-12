@@ -1,4 +1,4 @@
-# refresh
+# Reinstall repo
 Repo used for installing Windows PC 
 
 # Azure addons insctructions
