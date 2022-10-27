@@ -22,6 +22,7 @@ Repo used for installing Windows PC
     > choco install yubikey-manager gpg4win
     > choco install gcloudsdk azure-cli
     > choco install microsoft-teams.install zoom
+    > choco install docker-desktop
     
     
 //
