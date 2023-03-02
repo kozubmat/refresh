@@ -26,8 +26,8 @@ Repo used for installing Windows PC
     > choco install gcloudsdk azure-cli
     #Communication
     > choco install microsoft-teams.install zoom
-    VPN
-    > choco install choco install protonvpn
+    #VPN
+    > choco install protonvpn openvpn-connect
     
     
 //
