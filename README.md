@@ -16,13 +16,18 @@ Repo used for installing Windows PC
     > git config --global user.email "mona.lisa@gmail.com"
     
 ### 3. Install tools
-    
-    > choco install filezilla 7zip putty notepadplusplus keepas  
-    > choco install packer terraform postman vscode  
+    #Tools
+    > choco install filezilla 7zip putty notepadplusplus keepas 
+    #Programming
+    > choco install packer terraform postman vscode docker-desktop
+    #GPG
     > choco install yubikey-manager gpg4win
+    #Cloud
     > choco install gcloudsdk azure-cli
+    #Communication
     > choco install microsoft-teams.install zoom
-    > choco install docker-desktop
+    VPN
+    > choco install choco install protonvpn
     
     
 //
