@@ -1,7 +1,12 @@
 # LINUX serial connection
 
 ```shell
-dnf install statserial, gtkterm -y
+dnf install statserial, screen -y
+
+OPTIONAL
+
+dnf install putty -y
+
 ```
 
 ```shell
@@ -46,4 +51,9 @@ DTR 20    4      out         1   Data Terminal Ready
 RI	22    9      in          0   Ring Indicator
 ```
 
+To run serial in screen
+
+```shell
+screen /dev/ttyUSB0 38400
+```
 
