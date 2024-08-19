@@ -5,7 +5,7 @@ dnf install statserial, screen -y
 
 OPTIONAL
 
-dnf install putty -y
+dnf install putty -ym OR dnf install gtkterm -y
 
 OPTIONAL
 
