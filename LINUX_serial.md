@@ -7,6 +7,11 @@ OPTIONAL
 
 dnf install putty -y
 
+OPTIONAL
+
+dnf install minicom
+#powerfull tool for serial connections
+
 ```
 
 ```shell
